@@ -31,12 +31,12 @@
     },
     "autoload": {
         "psr-4": {
-            "OgiGunes\\TronAPI\\": "src"
+            "IEXBase\\TronAPI\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "OgiGunes\\TronAPI\\Test\\": "tests"
+            "IEXBase\\TronAPI\\Test\\": "tests"
         }
     },
     "config": {
